@@ -1,0 +1,16 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+# Raw participant outputs must never be committed
+*.csv
+*.tsv
+participant_data/
+results/
+# Configuration holding live experimental data collection IDs
+.env
+.env.*
+!.env.example
