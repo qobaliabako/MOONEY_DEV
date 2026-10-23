@@ -285,7 +285,7 @@ The test image paths intentionally do not contain real images, so the experiment
 
 ## DataPipe / OSF upload test
 
-This build includes automatic result upload through DataPipe. The embedded experiment ID is `Ocl82q2wBw9q`. At the end of a completed run, the experiment uploads only rows with `save_trial: true` as a CSV. If DataPipe does not confirm success, it attempts a local CSV download and displays a manual backup button.
+This build includes automatic result upload through DataPipe. The embedded experiment ID is `CONFIGURE_PRIVATE_DATAPIPE_ID`. At the end of a completed run, the experiment uploads only rows with `save_trial: true` as a CSV. If DataPipe does not confirm success, it attempts a local CSV download and displays a manual backup button.
 
 Test normally with `http://localhost:8000/?matrix=TEST_01`. To test without sending anything to OSF, use `http://localhost:8000/?matrix=TEST_01&no_upload=1`. See `DATAPIPE_TESTING.txt`.
 
