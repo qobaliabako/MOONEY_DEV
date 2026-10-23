@@ -1,0 +1,737 @@
+{
+  "version": "v2_generated_from_peer_excel",
+  "generated_at_utc": "2026-07-10T10:19:30.264033+00:00",
+  "source_workbook": "TEMPLATE_filled_preserving_format.xlsx",
+  "source_sheet": "Sheet1",
+  "matrix_count": 2,
+  "matrices": [
+    {
+      "design_id": "TEST_01",
+      "block_order": [
+        "picture",
+        "text"
+      ],
+      "source_assignment_count": 4,
+      "events": [
+        {
+          "block_id": "picture_block_1",
+          "block_type": "picture",
+          "cue_type": "picture_correct",
+          "cue_validity": "correct",
+          "target_object": "strawberry",
+          "target_label_ka": "მარწყვი",
+          "target_accepted_labels_ka": [
+            "მარწყვი"
+          ],
+          "target_clear_file": "stimuli/strawberry_clear.jpg",
+          "cue_object": "strawberry",
+          "cue_label_ka": "მარწყვი",
+          "source_excel_row": 2,
+          "notes": "Picture block: correct cue",
+          "event_id": "p001_pre",
+          "trial_number": 1,
+          "phase": "pre",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/strawberry_mooney.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "strawberry",
+          "expected_label_ka": "მარწყვი",
+          "expected_accepted_labels_ka": [
+            "მარწყვი"
+          ]
+        },
+        {
+          "block_id": "picture_block_1",
+          "block_type": "picture",
+          "cue_type": "picture_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "cup",
+          "target_label_ka": "ჭიქა",
+          "target_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ],
+          "target_clear_file": "stimuli/cup_clear.jpg",
+          "cue_object": "dog",
+          "cue_label_ka": "ძაღლი",
+          "source_excel_row": 3,
+          "notes": "Picture block: incorrect cue",
+          "event_id": "p002_pre",
+          "trial_number": 2,
+          "phase": "pre",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/cup_mooney.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "cup",
+          "expected_label_ka": "ჭიქა",
+          "expected_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ]
+        },
+        {
+          "block_id": "picture_block_1",
+          "block_type": "picture",
+          "cue_type": "picture_correct",
+          "cue_validity": "correct",
+          "target_object": "strawberry",
+          "target_label_ka": "მარწყვი",
+          "target_accepted_labels_ka": [
+            "მარწყვი"
+          ],
+          "target_clear_file": "stimuli/strawberry_clear.jpg",
+          "cue_object": "strawberry",
+          "cue_label_ka": "მარწყვი",
+          "source_excel_row": 2,
+          "notes": "Picture block: correct cue",
+          "event_id": "p001_cue",
+          "trial_number": 3,
+          "phase": "cue",
+          "event_type": "image_response",
+          "image_kind": "clear",
+          "stimulus_src": "stimuli/strawberry_clear.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "strawberry",
+          "expected_label_ka": "მარწყვი",
+          "expected_accepted_labels_ka": [
+            "მარწყვი"
+          ]
+        },
+        {
+          "block_id": "picture_block_1",
+          "block_type": "picture",
+          "cue_type": "picture_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "cup",
+          "target_label_ka": "ჭიქა",
+          "target_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ],
+          "target_clear_file": "stimuli/cup_clear.jpg",
+          "cue_object": "dog",
+          "cue_label_ka": "ძაღლი",
+          "source_excel_row": 3,
+          "notes": "Picture block: incorrect cue",
+          "event_id": "p002_cue",
+          "trial_number": 4,
+          "phase": "cue",
+          "event_type": "image_response",
+          "image_kind": "clear",
+          "stimulus_src": "stimuli/dog_clear.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "dog",
+          "expected_label_ka": "ძაღლი",
+          "expected_accepted_labels_ka": [
+            "ძაღლი"
+          ]
+        },
+        {
+          "block_id": "picture_block_1",
+          "block_type": "picture",
+          "cue_type": "picture_correct",
+          "cue_validity": "correct",
+          "target_object": "strawberry",
+          "target_label_ka": "მარწყვი",
+          "target_accepted_labels_ka": [
+            "მარწყვი"
+          ],
+          "target_clear_file": "stimuli/strawberry_clear.jpg",
+          "cue_object": "strawberry",
+          "cue_label_ka": "მარწყვი",
+          "source_excel_row": 2,
+          "notes": "Picture block: correct cue",
+          "event_id": "p001_post",
+          "trial_number": 5,
+          "phase": "post",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/strawberry_mooney.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "strawberry",
+          "expected_label_ka": "მარწყვი",
+          "expected_accepted_labels_ka": [
+            "მარწყვი"
+          ]
+        },
+        {
+          "block_id": "picture_block_1",
+          "block_type": "picture",
+          "cue_type": "picture_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "cup",
+          "target_label_ka": "ჭიქა",
+          "target_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ],
+          "target_clear_file": "stimuli/cup_clear.jpg",
+          "cue_object": "dog",
+          "cue_label_ka": "ძაღლი",
+          "source_excel_row": 3,
+          "notes": "Picture block: incorrect cue",
+          "event_id": "p002_post",
+          "trial_number": 6,
+          "phase": "post",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/cup_mooney.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "cup",
+          "expected_label_ka": "ჭიქა",
+          "expected_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ]
+        },
+        {
+          "block_id": "text_block_2",
+          "block_type": "text",
+          "cue_type": "text_correct",
+          "cue_validity": "correct",
+          "target_object": "jar",
+          "target_label_ka": "ქილა",
+          "target_accepted_labels_ka": [
+            "ქილა"
+          ],
+          "target_clear_file": "stimuli/jar_clear.jpg",
+          "cue_object": "jar",
+          "cue_label_ka": "ქილა",
+          "source_excel_row": 4,
+          "notes": "Text block: correct cue",
+          "event_id": "t003_pre",
+          "trial_number": 7,
+          "phase": "pre",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/jar_mooney.jpg",
+          "cue_text_ka": "ქილა",
+          "cue_response_required": true,
+          "displayed_object": "jar",
+          "expected_label_ka": "ქილა",
+          "expected_accepted_labels_ka": [
+            "ქილა"
+          ]
+        },
+        {
+          "block_id": "text_block_2",
+          "block_type": "text",
+          "cue_type": "text_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "shoe",
+          "target_label_ka": "ფეხსაცმელი",
+          "target_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ],
+          "target_clear_file": "stimuli/shoe_clear.jpg",
+          "cue_object": "apple",
+          "cue_label_ka": "ვაშლი",
+          "source_excel_row": 5,
+          "notes": "Text block: incorrect cue",
+          "event_id": "t004_pre",
+          "trial_number": 8,
+          "phase": "pre",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/shoe_mooney.jpg",
+          "cue_text_ka": "ვაშლი",
+          "cue_response_required": true,
+          "displayed_object": "shoe",
+          "expected_label_ka": "ფეხსაცმელი",
+          "expected_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ]
+        },
+        {
+          "block_id": "text_block_2",
+          "block_type": "text",
+          "cue_type": "text_correct",
+          "cue_validity": "correct",
+          "target_object": "jar",
+          "target_label_ka": "ქილა",
+          "target_accepted_labels_ka": [
+            "ქილა"
+          ],
+          "target_clear_file": "stimuli/jar_clear.jpg",
+          "cue_object": "jar",
+          "cue_label_ka": "ქილა",
+          "source_excel_row": 4,
+          "notes": "Text block: correct cue",
+          "event_id": "t003_cue",
+          "trial_number": 9,
+          "phase": "cue",
+          "event_type": "passive_word_cue",
+          "image_kind": null,
+          "stimulus_src": null,
+          "cue_text_ka": "ქილა",
+          "cue_response_required": false,
+          "displayed_object": "jar",
+          "expected_label_ka": null,
+          "expected_accepted_labels_ka": []
+        },
+        {
+          "block_id": "text_block_2",
+          "block_type": "text",
+          "cue_type": "text_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "shoe",
+          "target_label_ka": "ფეხსაცმელი",
+          "target_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ],
+          "target_clear_file": "stimuli/shoe_clear.jpg",
+          "cue_object": "apple",
+          "cue_label_ka": "ვაშლი",
+          "source_excel_row": 5,
+          "notes": "Text block: incorrect cue",
+          "event_id": "t004_cue",
+          "trial_number": 10,
+          "phase": "cue",
+          "event_type": "passive_word_cue",
+          "image_kind": null,
+          "stimulus_src": null,
+          "cue_text_ka": "ვაშლი",
+          "cue_response_required": false,
+          "displayed_object": "apple",
+          "expected_label_ka": null,
+          "expected_accepted_labels_ka": []
+        },
+        {
+          "block_id": "text_block_2",
+          "block_type": "text",
+          "cue_type": "text_correct",
+          "cue_validity": "correct",
+          "target_object": "jar",
+          "target_label_ka": "ქილა",
+          "target_accepted_labels_ka": [
+            "ქილა"
+          ],
+          "target_clear_file": "stimuli/jar_clear.jpg",
+          "cue_object": "jar",
+          "cue_label_ka": "ქილა",
+          "source_excel_row": 4,
+          "notes": "Text block: correct cue",
+          "event_id": "t003_post",
+          "trial_number": 11,
+          "phase": "post",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/jar_mooney.jpg",
+          "cue_text_ka": "ქილა",
+          "cue_response_required": true,
+          "displayed_object": "jar",
+          "expected_label_ka": "ქილა",
+          "expected_accepted_labels_ka": [
+            "ქილა"
+          ]
+        },
+        {
+          "block_id": "text_block_2",
+          "block_type": "text",
+          "cue_type": "text_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "shoe",
+          "target_label_ka": "ფეხსაცმელი",
+          "target_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ],
+          "target_clear_file": "stimuli/shoe_clear.jpg",
+          "cue_object": "apple",
+          "cue_label_ka": "ვაშლი",
+          "source_excel_row": 5,
+          "notes": "Text block: incorrect cue",
+          "event_id": "t004_post",
+          "trial_number": 12,
+          "phase": "post",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/shoe_mooney.jpg",
+          "cue_text_ka": "ვაშლი",
+          "cue_response_required": true,
+          "displayed_object": "shoe",
+          "expected_label_ka": "ფეხსაცმელი",
+          "expected_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ]
+        }
+      ]
+    },
+    {
+      "design_id": "TEST_02",
+      "block_order": [
+        "text",
+        "picture"
+      ],
+      "source_assignment_count": 4,
+      "events": [
+        {
+          "block_id": "text_block_1",
+          "block_type": "text",
+          "cue_type": "text_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "strawberry",
+          "target_label_ka": "მარწყვი",
+          "target_accepted_labels_ka": [
+            "მარწყვი"
+          ],
+          "target_clear_file": "stimuli/strawberry_clear.jpg",
+          "cue_object": "dog",
+          "cue_label_ka": "ძაღლი",
+          "source_excel_row": 6,
+          "notes": "Reverse block order: text first",
+          "event_id": "t001_pre",
+          "trial_number": 1,
+          "phase": "pre",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/strawberry_mooney.jpg",
+          "cue_text_ka": "ძაღლი",
+          "cue_response_required": true,
+          "displayed_object": "strawberry",
+          "expected_label_ka": "მარწყვი",
+          "expected_accepted_labels_ka": [
+            "მარწყვი"
+          ]
+        },
+        {
+          "block_id": "text_block_1",
+          "block_type": "text",
+          "cue_type": "text_correct",
+          "cue_validity": "correct",
+          "target_object": "cup",
+          "target_label_ka": "ჭიქა",
+          "target_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ],
+          "target_clear_file": "stimuli/cup_clear.jpg",
+          "cue_object": "cup",
+          "cue_label_ka": "ჭიქა",
+          "source_excel_row": 7,
+          "notes": "Reverse block order: text first",
+          "event_id": "t002_pre",
+          "trial_number": 2,
+          "phase": "pre",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/cup_mooney.jpg",
+          "cue_text_ka": "ჭიქა",
+          "cue_response_required": true,
+          "displayed_object": "cup",
+          "expected_label_ka": "ჭიქა",
+          "expected_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ]
+        },
+        {
+          "block_id": "text_block_1",
+          "block_type": "text",
+          "cue_type": "text_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "strawberry",
+          "target_label_ka": "მარწყვი",
+          "target_accepted_labels_ka": [
+            "მარწყვი"
+          ],
+          "target_clear_file": "stimuli/strawberry_clear.jpg",
+          "cue_object": "dog",
+          "cue_label_ka": "ძაღლი",
+          "source_excel_row": 6,
+          "notes": "Reverse block order: text first",
+          "event_id": "t001_cue",
+          "trial_number": 3,
+          "phase": "cue",
+          "event_type": "passive_word_cue",
+          "image_kind": null,
+          "stimulus_src": null,
+          "cue_text_ka": "ძაღლი",
+          "cue_response_required": false,
+          "displayed_object": "dog",
+          "expected_label_ka": null,
+          "expected_accepted_labels_ka": []
+        },
+        {
+          "block_id": "text_block_1",
+          "block_type": "text",
+          "cue_type": "text_correct",
+          "cue_validity": "correct",
+          "target_object": "cup",
+          "target_label_ka": "ჭიქა",
+          "target_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ],
+          "target_clear_file": "stimuli/cup_clear.jpg",
+          "cue_object": "cup",
+          "cue_label_ka": "ჭიქა",
+          "source_excel_row": 7,
+          "notes": "Reverse block order: text first",
+          "event_id": "t002_cue",
+          "trial_number": 4,
+          "phase": "cue",
+          "event_type": "passive_word_cue",
+          "image_kind": null,
+          "stimulus_src": null,
+          "cue_text_ka": "ჭიქა",
+          "cue_response_required": false,
+          "displayed_object": "cup",
+          "expected_label_ka": null,
+          "expected_accepted_labels_ka": []
+        },
+        {
+          "block_id": "text_block_1",
+          "block_type": "text",
+          "cue_type": "text_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "strawberry",
+          "target_label_ka": "მარწყვი",
+          "target_accepted_labels_ka": [
+            "მარწყვი"
+          ],
+          "target_clear_file": "stimuli/strawberry_clear.jpg",
+          "cue_object": "dog",
+          "cue_label_ka": "ძაღლი",
+          "source_excel_row": 6,
+          "notes": "Reverse block order: text first",
+          "event_id": "t001_post",
+          "trial_number": 5,
+          "phase": "post",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/strawberry_mooney.jpg",
+          "cue_text_ka": "ძაღლი",
+          "cue_response_required": true,
+          "displayed_object": "strawberry",
+          "expected_label_ka": "მარწყვი",
+          "expected_accepted_labels_ka": [
+            "მარწყვი"
+          ]
+        },
+        {
+          "block_id": "text_block_1",
+          "block_type": "text",
+          "cue_type": "text_correct",
+          "cue_validity": "correct",
+          "target_object": "cup",
+          "target_label_ka": "ჭიქა",
+          "target_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ],
+          "target_clear_file": "stimuli/cup_clear.jpg",
+          "cue_object": "cup",
+          "cue_label_ka": "ჭიქა",
+          "source_excel_row": 7,
+          "notes": "Reverse block order: text first",
+          "event_id": "t002_post",
+          "trial_number": 6,
+          "phase": "post",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/cup_mooney.jpg",
+          "cue_text_ka": "ჭიქა",
+          "cue_response_required": true,
+          "displayed_object": "cup",
+          "expected_label_ka": "ჭიქა",
+          "expected_accepted_labels_ka": [
+            "ჭიქა",
+            "ფინჯანი"
+          ]
+        },
+        {
+          "block_id": "picture_block_2",
+          "block_type": "picture",
+          "cue_type": "picture_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "jar",
+          "target_label_ka": "ქილა",
+          "target_accepted_labels_ka": [
+            "ქილა"
+          ],
+          "target_clear_file": "stimuli/jar_clear.jpg",
+          "cue_object": "apple",
+          "cue_label_ka": "ვაშლი",
+          "source_excel_row": 8,
+          "notes": "Reverse block order: picture second",
+          "event_id": "p003_pre",
+          "trial_number": 7,
+          "phase": "pre",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/jar_mooney.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "jar",
+          "expected_label_ka": "ქილა",
+          "expected_accepted_labels_ka": [
+            "ქილა"
+          ]
+        },
+        {
+          "block_id": "picture_block_2",
+          "block_type": "picture",
+          "cue_type": "picture_correct",
+          "cue_validity": "correct",
+          "target_object": "shoe",
+          "target_label_ka": "ფეხსაცმელი",
+          "target_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ],
+          "target_clear_file": "stimuli/shoe_clear.jpg",
+          "cue_object": "shoe",
+          "cue_label_ka": "ფეხსაცმელი",
+          "source_excel_row": 9,
+          "notes": "Reverse block order: picture second",
+          "event_id": "p004_pre",
+          "trial_number": 8,
+          "phase": "pre",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/shoe_mooney.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "shoe",
+          "expected_label_ka": "ფეხსაცმელი",
+          "expected_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ]
+        },
+        {
+          "block_id": "picture_block_2",
+          "block_type": "picture",
+          "cue_type": "picture_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "jar",
+          "target_label_ka": "ქილა",
+          "target_accepted_labels_ka": [
+            "ქილა"
+          ],
+          "target_clear_file": "stimuli/jar_clear.jpg",
+          "cue_object": "apple",
+          "cue_label_ka": "ვაშლი",
+          "source_excel_row": 8,
+          "notes": "Reverse block order: picture second",
+          "event_id": "p003_cue",
+          "trial_number": 9,
+          "phase": "cue",
+          "event_type": "image_response",
+          "image_kind": "clear",
+          "stimulus_src": "stimuli/apple_clear.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "apple",
+          "expected_label_ka": "ვაშლი",
+          "expected_accepted_labels_ka": [
+            "ვაშლი"
+          ]
+        },
+        {
+          "block_id": "picture_block_2",
+          "block_type": "picture",
+          "cue_type": "picture_correct",
+          "cue_validity": "correct",
+          "target_object": "shoe",
+          "target_label_ka": "ფეხსაცმელი",
+          "target_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ],
+          "target_clear_file": "stimuli/shoe_clear.jpg",
+          "cue_object": "shoe",
+          "cue_label_ka": "ფეხსაცმელი",
+          "source_excel_row": 9,
+          "notes": "Reverse block order: picture second",
+          "event_id": "p004_cue",
+          "trial_number": 10,
+          "phase": "cue",
+          "event_type": "image_response",
+          "image_kind": "clear",
+          "stimulus_src": "stimuli/shoe_clear.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "shoe",
+          "expected_label_ka": "ფეხსაცმელი",
+          "expected_accepted_labels_ka": [
+            "ფეხსაცმელი"
+          ]
+        },
+        {
+          "block_id": "picture_block_2",
+          "block_type": "picture",
+          "cue_type": "picture_incorrect",
+          "cue_validity": "incorrect",
+          "target_object": "jar",
+          "target_label_ka": "ქილა",
+          "target_accepted_labels_ka": [
+            "ქილა"
+          ],
+          "target_clear_file": "stimuli/jar_clear.jpg",
+          "cue_object": "apple",
+          "cue_label_ka": "ვაშლი",
+          "source_excel_row": 8,
+          "notes": "Reverse block order: picture second",
+          "event_id": "p003_post",
+          "trial_number": 11,
+          "phase": "post",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/jar_mooney.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "jar",
+          "expected_label_ka": "ქილა",
+          "expected_accepted_labels_ka": [
+            "ქილა"
+          ]
+        },
+        {
+          "block_id": "picture_block_2",
+          "block_type": "picture",
+          "cue_type": "picture_correct",
+          "cue_validity": "correct",
+          "target_object": "shoe",
+          "target_label_ka": "ფეხსაცმელი",
+          "target_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ],
+          "target_clear_file": "stimuli/shoe_clear.jpg",
+          "cue_object": "shoe",
+          "cue_label_ka": "ფეხსაცმელი",
+          "source_excel_row": 9,
+          "notes": "Reverse block order: picture second",
+          "event_id": "p004_post",
+          "trial_number": 12,
+          "phase": "post",
+          "event_type": "image_response",
+          "image_kind": "mooney",
+          "stimulus_src": "stimuli/shoe_mooney.jpg",
+          "cue_text_ka": null,
+          "cue_response_required": true,
+          "displayed_object": "shoe",
+          "expected_label_ka": "ფეხსაცმელი",
+          "expected_accepted_labels_ka": [
+            "ფეხსაცმელი",
+            "ბოტასი"
+          ]
+        }
+      ]
+    }
+  ]
+}

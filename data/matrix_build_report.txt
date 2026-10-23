@@ -1,0 +1,9 @@
+Mooney V2 matrix build report
+Input: /mnt/data/v2_work/bako_mooney_v2_skeleton_placeholder/matrix_source/TEMPLATE_filled_preserving_format.xlsx
+Authoritative sheet: Sheet1
+Populated assignments: 8
+
+PASSED
+Matrices generated: 2
+Events generated: 24
+Output: /mnt/data/v2_work/bako_mooney_v2_skeleton_placeholder/data/design_matrices_v2.json
